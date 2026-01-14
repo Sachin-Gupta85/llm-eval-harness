@@ -1,0 +1,3 @@
+# Core harness is pure standard library.
+# Optional, only for real model/judge providers:
+# langchain-openai>=0.2
